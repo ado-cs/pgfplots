@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as t,U as i}from"./chunks/framework.hUbdJHiz.js";const u=JSON.parse('{"title":"快速开始","description":"","frontmatter":{},"headers":[],"relativePath":"QuickStart.md","filePath":"QuickStart.md"}'),e={name:"QuickStart.md"},p=i("",12),l=[p];function n(r,o,h,k,c,d){return t(),a("div",null,l)}const E=s(e,[["render",n]]);export{u as __pageData,E as default};

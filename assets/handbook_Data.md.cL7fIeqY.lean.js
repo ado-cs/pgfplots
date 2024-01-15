@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as a,U as i}from"./chunks/framework.hUbdJHiz.js";const g=JSON.parse('{"title":"数据源","description":"","frontmatter":{},"headers":[],"relativePath":"handbook/Data.md","filePath":"handbook/Data.md"}'),d={name:"handbook/Data.md"},n=i("",50),o=[n];function l(p,c,t,h,r,k){return a(),s("div",null,o)}const m=e(d,[["render",l]]);export{g as __pageData,m as default};
